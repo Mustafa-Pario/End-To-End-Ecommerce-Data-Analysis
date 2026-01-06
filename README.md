@@ -4,6 +4,15 @@
 
 **End-To-End Ecommerce Data Analysis** is a complete data analytics project that demonstrates the full workflow of working with real-world e-commerce data. The project includes data collection, cleaning, exploratory data analysis (EDA), visualization, and actionable insights to help understand sales patterns, customer behavior, and business performance.
 
+
+
+<p align="center">
+  <img width="1200" height="600" alt="ELT Diagram"
+       src="https://github.com/user-attachments/assets/c2255b2b-48c9-4f95-991b-5bd1cf31d368" />
+</p>
+
+
+
 ---
 
 ## 🧠 Key Features
